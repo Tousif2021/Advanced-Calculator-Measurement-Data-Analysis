@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/TousifDeV/931d9a8a-5ba2-47d1-baba-734509d25be7/b03f1536-92ca-4e99-967c-0e12c6276b1d/_apis/work/boardbadge/da414f18-1018-439d-8745-7e71edb4a648)](https://dev.azure.com/TousifDeV/931d9a8a-5ba2-47d1-baba-734509d25be7/_boards/board/t/b03f1536-92ca-4e99-967c-0e12c6276b1d/Microsoft.RequirementCategory)
 Advanced Calculator & Measurement Data Analysis 🔢📊
 
 This project features an advanced calculator with robust functionality, as well as a comprehensive tool for analyzing measurement data. Designed for both scientific and everyday use, this code enables accurate calculations and insightful data analysis.
